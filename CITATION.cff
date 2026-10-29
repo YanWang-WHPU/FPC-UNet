@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated FPC-UNet paper."
+type: software
+title: "FPC-UNet: A Dual-Stage Calibration Network for UAV-Based Rice Field Segmentation"
+authors:
+  - family-names: Yang
+    given-names: Kaijun
+  - family-names: Wang
+    given-names: Yan
+  - family-names: Liu
+    given-names: Guangwei
+  - family-names: Wang
+    given-names: Sheng
+  - family-names: Huang
+    given-names: Xiaohui
+repository-code: "https://github.com/YanWang-WHPU/FPC-UNet"
+url: "https://github.com/YanWang-WHPU/FPC-UNet"
+preferred-citation:
+  type: conference-paper
+  title: "FPC-UNet: A Dual-Stage Calibration Network for UAV-Based Rice Field Segmentation"
+  authors:
+    - family-names: Yang
+      given-names: Kaijun
+    - family-names: Wang
+      given-names: Yan
+    - family-names: Liu
+      given-names: Guangwei
+    - family-names: Wang
+      given-names: Sheng
+    - family-names: Huang
+      given-names: Xiaohui
+  collection-title: "Web and Big Data. APWeb-WAIM 2026 International Workshops"
+  volume: "3188"
+  start: 27
+  end: 38
+  year: 2027
+  doi: "10.1007/978-981-92-6621-0_3"
+  publisher:
+    name: "Springer, Singapore"

@@ -1,0 +1,2 @@
+# Only needed for the standalone model in extracted_fpc_unet/.
+torch>=2.3,<3
